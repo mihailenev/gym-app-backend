@@ -1,0 +1,382 @@
+        //==============================================================================================================
+        // DAY 1 - LEGS
+        SessionTemplate day1 = SessionTemplate.builder().name("Legs").build();
+
+        // LEG PRESS
+        ArrayList<SetRecord> legPressSets = new ArrayList<>();
+        legPressSets.add(SetRecord.builder()
+                .reps(10)
+                .rpe(8)
+                .build());
+        legPressSets.add(SetRecord.builder()
+                .reps(10)
+                .rpe(8)
+                .build());
+        legPressSets.add(SetRecord.builder()
+                .reps(10)
+                .rpe(8)
+                .build());
+        ExerciseRecord legPress = ExerciseRecord.builder().exerciseId(5).numberOfSets(3).sets(legPressSets).build();
+
+        // HIP THRUST
+        ArrayList<SetRecord> hipThrustSets = new ArrayList<>();
+        hipThrustSets.add(SetRecord.builder()
+                .reps(10)
+                .rpe(8)
+                .build());
+        hipThrustSets.add(SetRecord.builder()
+                .reps(10)
+                .rpe(8)
+                .build());
+        hipThrustSets.add(SetRecord.builder()
+                .reps(10)
+                .rpe(8)
+                .build());
+        ExerciseRecord hipThrust = ExerciseRecord.builder().exerciseId(11).numberOfSets(3).sets(hipThrustSets).build();
+
+        //LEG CURL
+        ArrayList<SetRecord> legCurlSets = new ArrayList<>();
+        legCurlSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        legCurlSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        legCurlSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord legCurl = ExerciseRecord.builder().exerciseId(7).numberOfSets(3).sets(legCurlSets).build();
+
+        // LEG ADDUCTION
+        ArrayList<SetRecord> legAdductionSets = new ArrayList<>();
+        legAdductionSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        legAdductionSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        legAdductionSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord legAdduction = ExerciseRecord.builder().exerciseId(22).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(legAdductionSets).build();
+
+        // LEG ABDUCTION
+        ArrayList<SetRecord> legAbductionSets = new ArrayList<>();
+        legAbductionSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        legAbductionSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        legAbductionSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord legAbduction = ExerciseRecord.builder().exerciseId(23).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(legAbductionSets).build();
+
+        // CALF RISES
+        ArrayList<SetRecord> calfRisesSets = new ArrayList<>();
+        calfRisesSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        calfRisesSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        calfRisesSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord calfRises = ExerciseRecord.builder().exerciseId(8).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(calfRisesSets).build();
+
+        // LEG EXTENSION
+        ArrayList<SetRecord> legExtensionSets = new ArrayList<>();
+        legExtensionSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        legExtensionSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        legExtensionSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord legExtension = ExerciseRecord.builder().exerciseId(6).numberOfSets(3).sets(legExtensionSets).build();
+
+        // ADDING THE EXERCISES
+        day1.addExercise(legPressSets);
+        day1.addExercise(hipThrust);
+        day1.addExercise(legCurl);
+        day1.addExercise(legAdduction);
+        day1.addExercise(legAbduction);
+        day1.addExercise(calfRises);
+        day1.addExercise(legExtension);
+
+        //==============================================================================================================
+        // DAY 2 - Chest and Triceps
+        SessionTemplate day2 = SessionTemplate.builder().name("Chest and Triceps").build();
+
+        // CHEST PRESS
+        ArrayList<SetRecord> chestPressSets = new ArrayList<>();
+        chestPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        chestPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        chestPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord chestPress = ExerciseRecord.builder().exerciseId(2).numberOfSets(3).sets(chestPressSets).build();
+
+        // SKULL CRUSHER
+        ArrayList<SetRecord> skullCrusherSets = new ArrayList<>();
+        skullCrusherSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        skullCrusherSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        skullCrusherSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        ExerciseRecord skullCrusher = ExerciseRecord.builder().exerciseId(20).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(skullCrusherSets).build();
+
+        // CLOSE-GRIP EZ-BAR BENCH PRESS
+        ArrayList<SetRecord> closeGripEzBarSets = new ArrayList<>();
+        closeGripEzBarSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        closeGripEzBarSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        closeGripEzBarSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        ExerciseRecord closeGripEzBar = ExerciseRecord.builder().exerciseId(24).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(closeGripEzBarSets).build();
+
+        // PEC DECK
+        ArrayList<SetRecord> pecDeckSets = new ArrayList<>();
+        pecDeckSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        pecDeckSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        pecDeckSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord pecDeck = ExerciseRecord.builder().exerciseId(13).numberOfSets(3).sets(pecDeckSets).build();
+
+        // ROPE TRICEP EXTENSION
+        ArrayList<SetRecord> ropeTricepSets = new ArrayList<>();
+        ropeTricepSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ropeTricepSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ropeTricepSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord ropeTricep = ExerciseRecord.builder().exerciseId(21).numberOfSets(3).sets(ropeTricepSets).build();
+
+        // ADDING THE EXERCISES
+        day2.addExercise(chestPress);
+        day2.addExercise(skullCrusher);
+        day2.addExercise(closeGripEzBar);
+        day2.addExercise(pecDeck);
+        day2.addExercise(ropeTricep);
+
+        //==============================================================================================================
+        // DAY 3 - Back and Biceps
+        SessionTemplate day3 = SessionTemplate.builder().name("Back and Biceps").build();
+
+        // LAT PULLDOWN
+        ArrayList<SetRecord> latPulldownSets = new ArrayList<>();
+        latPulldownSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        latPulldownSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        latPulldownSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord latPulldown = ExerciseRecord.builder().exerciseId(14).numberOfSets(3).sets(latPulldownSets).build();
+
+        // EZ-BAR PREACHER CURL
+        ArrayList<SetRecord> preacherCurlSets = new ArrayList<>();
+        preacherCurlSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        preacherCurlSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        preacherCurlSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord preacherCurl = ExerciseRecord.builder().exerciseId(18).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(preacherCurlSets).build();
+
+        // HAMMERS
+        ArrayList<SetRecord> hammersSets = new ArrayList<>();
+        hammersSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        hammersSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        hammersSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord hammers = ExerciseRecord.builder().exerciseId(19).numberOfSets(3).executionType(TypeOfExercise.SUPERSET).sets(hammersSets).build();
+
+        // CHEST SUPPORTED MACHINE ROW
+        ArrayList<SetRecord> chestSupportedMachineRowSets = new ArrayList<>();
+        chestSupportedMachineRowSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        chestSupportedMachineRowSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        chestSupportedMachineRowSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord chestSupportedMachineRow = ExerciseRecord.builder().exerciseId(25).numberOfSets(3).sets(chestSupportedMachineRowSets).build();
+
+        // CABLE LAT PULLOVER
+        ArrayList<SetRecord> cableLatPulloverSets = new ArrayList<>();
+        cableLatPulloverSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        cableLatPulloverSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        cableLatPulloverSets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord cableLatPullover = ExerciseRecord.builder().exerciseId(26).numberOfSets(3).sets(cableLatPulloverSets).build();
+
+        // ADDING THE EXERCISES
+        day3.addExercise(latPulldown);
+        day3.addExercise(preacherCurl);
+        day3.addExercise(hammers);
+        day3.addExercise(chestSupportedMachineRow);
+        day3.addExercise(cableLatPullover);
+
+        //==============================================================================================================
+        // DAY 4 - Shoulders
+        SessionTemplate day4 = SessionTemplate.builder().name("Shoulders").build();
+
+        // SEATED SHOULDER PRESS MACHINE
+        ArrayList<SetRecord> shoulderPressSets = new ArrayList<>();
+        shoulderPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        shoulderPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        shoulderPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        shoulderPressSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(8)
+                .build());
+        ExerciseRecord shoulderPress = ExerciseRecord.builder().exerciseId(12).numberOfSets(4).sets(shoulderPressSets).build();
+
+        // SEATED LATERAL RAISES
+        ArrayList<SetRecord> lateralRaisesSets = new ArrayList<>();
+        lateralRaisesSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        lateralRaisesSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        lateralRaisesSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        lateralRaisesSets.add(SetRecord.builder()
+                .reps(12)
+                .rpe(9)
+                .build());
+        ExerciseRecord lateralRaises = ExerciseRecord.builder().exerciseId(16).numberOfSets(4).sets(lateralRaisesSets).build();
+
+        // REVERSE CABLE FLY
+        ArrayList<SetRecord> reverseFlySets = new ArrayList<>();
+        reverseFlySets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        reverseFlySets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        reverseFlySets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        reverseFlySets.add(SetRecord.builder()
+                .reps(15)
+                .rpe(9)
+                .build());
+        ExerciseRecord reverseFly = ExerciseRecord.builder().exerciseId(17).numberOfSets(4).sets(reverseFlySets).build();
+
+        // ADDING THE EXERCISES
+        day4.addExercise(shoulderPress);
+        day4.addExercise(lateralRaises);
+        day4.addExercise(reverseFly);
+
+        // ADDING THE DAYS IN A PROGRAM TEMPLATE
+        ProgramTemplate programTemplate = new ProgramTemplate("Push, Pull, Legs by Niki");
+        programTemplate.addWorkOutProgramSession(day1);
+        programTemplate.addWorkOutProgramSession(day2);
+        programTemplate.addWorkOutProgramSession(day3);
+        programTemplate.addWorkOutProgramSession(day4);

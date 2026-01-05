@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Squat",
+    "description": "Top ex for legs"
+  },
+  {
+    "id": 2,
+    "name": "Bench Press",
+    "description": "Top ex for chest"
+  },
+  {
+    "id": 3,
+    "name": "Deadlift",
+    "description": "Top ex for glutes and hamstring"
+  },
+  {
+    "id": 4,
+    "name": "Overhead Press",
+    "description": "Top ex for shoulders"
+  },
+  {
+    "id": 5,
+    "name": "Leg Press",
+    "description": "Top ex for legs"
+  },
+  {
+    "id": 6,
+    "name": "Leg Extension",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Leg Curl",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Calf Raises",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "Romanian Deadlift",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "name": "Sumo Deadlift",
+    "description": ""
+  },
+  {
+    "id": 11,
+    "name": "Hip Thrust",
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": "Shoulder Press",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "name": "Cable Fly",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "name": "Lat Pulldown",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "name": "Seated Cable Row",
+    "description": ""
+  },
+  {
+    "id": 16,
+    "name": "Lateral Raises",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "name": "Reverse Cable Fly",
+    "description": ""
+  },
+  {
+    "id": 18,
+    "name": "Preacher Curl",
+    "description": ""
+  },
+  {
+    "id": 19,
+    "name": "Hammers",
+    "description": ""
+  },
+  {
+    "id": 20,
+    "name": "Skull Crusher",
+    "description": ""
+  },
+  {
+    "id": 21,
+    "name": "Rope Tricep Extension",
+    "description": ""
+  },
+  {
+    "id": 22,
+    "name": "Leg Adduction",
+    "description": ""
+  },
+  {
+    "id": 23,
+    "name": "Leg Abduction",
+    "description": ""
+  },
+  {
+    "id": 24,
+    "name": "Close-Grip EZ-bar Bench Press",
+    "description": ""
+  },
+  {
+    "id": 25,
+    "name": "Chest Supported Machine Row",
+    "description": ""
+  },
+  {
+    "id": 26,
+    "name": "Cable Lat Pullover",
+    "description": ""
+  }
+]

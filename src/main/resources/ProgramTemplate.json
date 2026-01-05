@@ -1,0 +1,546 @@
+[
+  {
+    "id": "425c8f88-8b74-447d-8cfd-e934c3eb164c",
+    "name": "Push, Pull, Legs by Niki",
+    "program": [
+      {
+        "name": "Legs",
+        "sessionTemplate": [
+          {
+            "exerciseId": "5213fea8-6ba6-44b6-8855-13d2dd138624",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 10,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 10,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 10,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "3344bb41-06fa-4424-b928-ba891fed535f",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 10,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 10,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 10,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "619510ff-272b-4a23-b826-4577c05f2bca",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "8b6e3156-0d3a-4e2a-8164-072af0b0a151",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "9fd1f53e-e669-4199-be2d-f8397f4e59a5",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "4c53fa15-f7be-4cba-ae9a-6a02b73de965",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "b1f7b447-5c8f-452c-b23a-0a0016c99eca",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chest and Triceps",
+        "sessionTemplate": [
+          {
+            "exerciseId": "f06f139e-2c67-4168-9ede-704feed6e856",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "90672294-ce2c-484a-93d3-b11cb43f02fc",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "90574cd5-86dc-4421-affd-2ff3e3f41f9d",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "24a2993f-09e2-4f29-8c17-239b587897b0",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "c4548df8-ffc3-44ab-9076-685ad2155afb",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Back and Biceps",
+        "sessionTemplate": [
+          {
+            "exerciseId": "ed3c2631-3c1c-4b6b-ab39-e26cf7044240",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "a8bb2292-5f9c-421b-9b7b-8eb62c40035b",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "8e2701a4-05eb-4f6e-912d-2b10029daf53",
+            "numberOfSets": 3,
+            "executionType": "SUPERSET",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "4aa9b20a-5f5a-4056-8c09-3c348f12e3c6",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "e0ce0659-a59f-4de3-8c59-93d4ec49dbeb",
+            "numberOfSets": 3,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shoulders",
+        "sessionTemplate": [
+          {
+            "exerciseId": "d645df94-7ba9-450f-98b3-59ba0c47e362",
+            "numberOfSets": 4,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 8,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "8153d4f6-fa67-4927-b59a-8365495deea9",
+            "numberOfSets": 4,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 12,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          },
+          {
+            "exerciseId": "575b0132-a2fb-409a-accc-a2e21e32befa",
+            "numberOfSets": 4,
+            "executionType": "REGULAR",
+            "sets": [
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              },
+              {
+                "reps": 15,
+                "weight": 0.0,
+                "rpe": 9,
+                "type": "REGULAR_SET"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

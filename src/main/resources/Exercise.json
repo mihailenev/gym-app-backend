@@ -1,0 +1,132 @@
+[
+  {
+    "id": "40e5dd50-6c57-4052-9002-f96660df45ff",
+    "name": "Squat",
+    "description": ""
+  },
+  {
+    "id": "f06f139e-2c67-4168-9ede-704feed6e856",
+    "name": "Bench Press",
+    "description": ""
+  },
+  {
+    "id": "142ab251-7088-4d4b-82a3-47da0954da89",
+    "name": "Deadlift",
+    "description": ""
+  },
+  {
+    "id": "3f875ec8-4a8b-4ba5-9637-70ea161d1b40",
+    "name": "Overhead Press",
+    "description": ""
+  },
+  {
+    "id": "5213fea8-6ba6-44b6-8855-13d2dd138624",
+    "name": "Leg Press",
+    "description": ""
+  },
+  {
+    "id": "b1f7b447-5c8f-452c-b23a-0a0016c99eca",
+    "name": "Leg Extension",
+    "description": ""
+  },
+  {
+    "id": "619510ff-272b-4a23-b826-4577c05f2bca",
+    "name": "Leg Curl",
+    "description": ""
+  },
+  {
+    "id": "4c53fa15-f7be-4cba-ae9a-6a02b73de965",
+    "name": "Calf Raises",
+    "description": ""
+  },
+  {
+    "id": "1328dc71-fac1-420f-903f-c7d4acc7677c",
+    "name": "Romanian Deadlift",
+    "description": ""
+  },
+  {
+    "id": "b84f3cec-af9b-4013-8223-e954f100b321",
+    "name": "Sumo Deadlift",
+    "description": ""
+  },
+  {
+    "id": "3344bb41-06fa-4424-b928-ba891fed535f",
+    "name": "Hip Thrust",
+    "description": ""
+  },
+  {
+    "id": "d645df94-7ba9-450f-98b3-59ba0c47e362",
+    "name": "Shoulder Press",
+    "description": ""
+  },
+  {
+    "id": "24a2993f-09e2-4f29-8c17-239b587897b0",
+    "name": "Cable Fly",
+    "description": ""
+  },
+  {
+    "id": "ed3c2631-3c1c-4b6b-ab39-e26cf7044240",
+    "name": "Lat Pulldown",
+    "description": ""
+  },
+  {
+    "id": "42b3cc06-675b-4fcd-b89d-9566e7fa05f1",
+    "name": "Seated Cable Row",
+    "description": ""
+  },
+  {
+    "id": "8153d4f6-fa67-4927-b59a-8365495deea9",
+    "name": "Lateral Raises",
+    "description": ""
+  },
+  {
+    "id": "575b0132-a2fb-409a-accc-a2e21e32befa",
+    "name": "Reverse Cable Fly",
+    "description": ""
+  },
+  {
+    "id": "a8bb2292-5f9c-421b-9b7b-8eb62c40035b",
+    "name": "Preacher Curl",
+    "description": ""
+  },
+  {
+    "id": "8e2701a4-05eb-4f6e-912d-2b10029daf53",
+    "name": "Hammers",
+    "description": ""
+  },
+  {
+    "id": "90672294-ce2c-484a-93d3-b11cb43f02fc",
+    "name": "Skull Crusher",
+    "description": ""
+  },
+  {
+    "id": "c4548df8-ffc3-44ab-9076-685ad2155afb",
+    "name": "Rope Tricep Extension",
+    "description": ""
+  },
+  {
+    "id": "8b6e3156-0d3a-4e2a-8164-072af0b0a151",
+    "name": "Leg Adduction",
+    "description": ""
+  },
+  {
+    "id": "9fd1f53e-e669-4199-be2d-f8397f4e59a5",
+    "name": "Leg Abduction",
+    "description": ""
+  },
+  {
+    "id": "90574cd5-86dc-4421-affd-2ff3e3f41f9d",
+    "name": "Close-Grip EZ-bar Bench Press",
+    "description": ""
+  },
+  {
+    "id": "4aa9b20a-5f5a-4056-8c09-3c348f12e3c6",
+    "name": "Chest Supported Machine Row",
+    "description": ""
+  },
+  {
+    "id": "e0ce0659-a59f-4de3-8c59-93d4ec49dbeb",
+    "name": "Cable Lat Pullover",
+    "description": ""
+  }
+]
